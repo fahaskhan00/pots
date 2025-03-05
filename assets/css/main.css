@@ -1266,10 +1266,11 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+.submit-button{
+  background-color: #149ddd;
+  border-radius: 20px;
+  color: white;
+  border: none;
+  padding: 5px 60px 5px 60px;
 }
+
